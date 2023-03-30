@@ -54,7 +54,7 @@ file. For example,
 MAKEJOBS="-j1" FILE_ENV="./ci/test/00_setup_env_arm.sh" ./ci/test_run_all.sh
 ```
 
-The files starting with `0n` (`n` greater than 0) are the scripts that are run
+The files starting with `0n` ( `n` greater than 0) are the scripts that are run
 in order.
 
 ### Cache
